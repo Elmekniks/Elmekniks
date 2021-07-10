@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elmekniks
-- 👀 I’m interested in front end web design and blockchain technology 
+- 👀 I’m interested in front end web design 
 - 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
